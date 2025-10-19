@@ -1,4 +1,4 @@
-# 🔔 AI Smart Doorbell for Raspberry Pi 4
+# 🔔 Offline AI Smart Doorbell for Raspberry Pi 4
 
 > Replace your Ring doorbell with a privacy-focused, locally-hosted AI system featuring face recognition, natural voice interaction, and a beautiful web dashboard.
 
